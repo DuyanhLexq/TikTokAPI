@@ -1,0 +1,17 @@
+#-last modified 18/8/2024
+
+author_id: itemInfo/itemStruct/author/id
+author_nickname: itemInfo/itemStruct/author/nickname
+author_uniqueId: itemInfo/itemStruct/author/uniqueId
+collectCount: itemInfo/itemStruct/stats/collectCount
+commentCount: itemInfo/itemStruct/stats/commentCount
+description: itemInfo/itemStruct/desc
+diggCount: itemInfo/itemStruct/stats/diggCount
+duration: itemInfo/itemStruct/video/duration
+hastag: itemInfo/itemStruct/textExtra
+height: itemInfo/itemStruct/video/height
+playCount: itemInfo/itemStruct/stats/playCount
+region: itemInfo/itemStruct/locationCreated
+shareCount: itemInfo/itemStruct/stats/shareCount
+video_id: itemInfo/itemStruct/id
+width: itemInfo/itemStruct/video/width

@@ -1,0 +1,12 @@
+#-last modified 18/8/2024
+
+author_pin: author_pin
+aweme_id: aweme_id
+cid: cid
+collect_stat: collect_stat
+comment_language: comment_language
+create_time: create_time
+digg_count: digg_count
+reply_comment_total: reply_comment_total
+text: text
+author_id: user/uid

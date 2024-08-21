@@ -1,0 +1,19 @@
+#-last modified 18/8/2024
+
+createTime: userInfo/user/createTime
+description: userInfo/user/signature
+diggCount: userInfo/stats/diggCount
+followerCount: userInfo/stats/followerCount
+followingCount: userInfo/stats/followingCount
+friendCount: userInfo/stats/friendCount
+heartCount: userInfo/stats/heartCount
+id: userInfo/user/id
+language: userInfo/user/language
+nickNameModifyTime: userInfo/user/nickNameModifyTime
+nickname: userInfo/user/nickname
+privateAccount: userInfo/user/privateAccount
+region: userInfo/user/region
+secret: userInfo/user/secret
+uniqueId: userInfo/user/uniqueId
+verified: userInfo/user/verified
+videoCount: userInfo/stats/videoCount
