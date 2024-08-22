@@ -29,7 +29,7 @@ class user_information:
         self.language: str
         self.region: str
     
-    def __repr__(self):
+    def __repr__(self)-> str:
         try:
             info = f"<user_information (id={self.id},followers={self.followerCount},hearts={self.heartCount},...)>"
         except:
